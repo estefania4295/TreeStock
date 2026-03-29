@@ -112,7 +112,9 @@ El video explica:
 - Demostración: Registrar → Mostrar inventario → Buscar producto
 
 ---
-
+ Sistema implementado sin librerias de Java.
+ Curso:Estructura de Datos 2026
+ 
 ##  Referencias
 
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
