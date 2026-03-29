@@ -114,6 +114,7 @@ El video explica:
 ---
  Sistema implementado sin librerias de Java.
  Curso:Estructura de Datos 2026
+ Actividad EA2 Completada.
  
 ##  Referencias
 
