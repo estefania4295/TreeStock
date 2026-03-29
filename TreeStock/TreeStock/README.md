@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desarrollar una aplicación de consola en Java que gestione un inventario de productos usando un **Árbol Binario de Búsqueda (ABB)** implementado manualmente, sin usar librerías de Java como `TreeMap` o `TreeSet`.
 
 ---
 
-## 🧠 ¿Qué es un Árbol Binario de Búsqueda?
+##  ¿Qué es un Árbol Binario de Búsqueda?
 
 Un **Árbol Binario de Búsqueda (ABB)** es una estructura de datos dinámica donde cada nodo tiene:
 - Un **dato** (en este caso: ID y nombre del producto)
@@ -41,7 +41,7 @@ Cuando se inserta un nuevo producto con ID=4 en el árbol [5, 3, 7]:
 
 ---
 
-## 🏗️ Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 ```
 TreeStock/
@@ -63,7 +63,7 @@ TreeStock/
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 
 ### Requisitos
 - JDK Eclipse Temurin 17 o superior
@@ -89,33 +89,20 @@ java Main
 ## 💻 Capturas de Pantalla
 
 ### Menú Principal
-*(Agregar captura aquí — ver instrucciones abajo)*
+![Menu](capturas_menu.jpeg)
 
 ### Registro de Productos
-*(Agregar captura aquí)*
+![Registro](capturas_registro.jpeg)
+![Registro2](capturas_registro1.jpeg)
+![Registro3](capturas_registro2.jpeg)
 
 ### Mostrar Inventario Ordenado
-*(Agregar captura aquí)*
+![Inventario](capturas_inventario.jpeg)
 
 ### Búsqueda de Producto
-*(Agregar captura aquí)*
+![Busqueda](capturas_busqueda.jpeg)
 
----
-
-## ¿Cómo agregar capturas al README?
-
-1. Ejecuta el programa y toma capturas de pantalla (tecla `PrtScn` o `Win + Shift + S`)
-2. Guarda las imágenes en una carpeta llamada `capturas` dentro del proyecto
-3. Sube esa carpeta a GitHub junto con el código
-4. Reemplaza los textos de arriba con:
-   ```
-   ![Menu principal](capturas/menu.png)
-   ![Inventario](capturas/inventario.png)
-   ```
-
----
-
-## 🎥 Video de Sustentación
+##  Video de Sustentación
 
 > 🔗 **[Insertar aquí el enlace del video de YouTube o Drive]**
 
@@ -126,7 +113,7 @@ El video explica:
 
 ---
 
-## 📚 Referencias
+##  Referencias
 
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
 - IU Digital de Antioquia. (2026). *Guía de actividad EA2 — Estructura de Datos*.
