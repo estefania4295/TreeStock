@@ -104,7 +104,7 @@ java Main
 
 ##  Video de Sustentación
 
-> 🔗 **[Insertar aquí el enlace del video de YouTube o Drive]**
+>[ https://youtu.be/OIN_gd_tGGQ ]
 
 El video explica:
 - Lógica de los punteros en la inserción recursiva
